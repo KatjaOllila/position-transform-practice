@@ -21,10 +21,27 @@
     top: 734px;
     left: -406px;
 }
-.validation {
+.main-one {
     width: 1110px;
     height: 574px;
     top: 1397px;
-    left: 145px;
-
+    left: 145px;    
+}
+.main-two {
+    width: 1121px;
+    height: 521px;
+    top: 2072px;
+    left: 144px;
+}
+.main-three {
+    width: 1110px;
+    height: 609px;
+    top: 2697px;
+    left: 147px;
+}
+.footer {
+    width: 1109px;
+    height: 308px;
+    top: 3452px;
+    left: 160px;
 }

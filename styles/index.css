@@ -1,12 +1,30 @@
 .body {
-    width: 1400px
-    height: 3843px
-    top: -2123px
+    width: 1400px;
+    height: 3843px;
+    top: -2123px;
     left: 298px
 }
 .nav {
-    width: 1400px
-    height: 78px
-    top: 20px
+   width: 1400px; 
+   height: 78px;
+   top: 20px;
+}  
+.header {
+    width: 1126px;
+    height: 496px;
+    Top: 128px;
+    Left: 145px;
+}
+.feature {    
+    width: 2211px;
+    height: 543px;    
+    top: 734px;
+    left: -406px;
+}
+.validation {
+    width: 1110px;
+    height: 574px;
+    top: 1397px;
+    left: 145px;
 
 }

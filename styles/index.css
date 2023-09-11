@@ -2,46 +2,70 @@
     width: 1400px;
     height: 3843px;
     top: -2123px;
-    left: 298px
+    left: 298px;
+    display: flex;
 }
-.nav {
+.nav-over {
    width: 1400px; 
    height: 78px;
    top: 20px;
-}  
+   display: flex;   
+}
+.nav {
+    width: 1400px;
+    height: 78px;
+    top: 78px;
+    display: flex;
+} 
+.nav-content {
+    width: 350px;
+    height: 28px;
+    top: 24px;
+    left: 650px;
+    display: flex;
+} 
 .header {
     width: 1126px;
     height: 496px;
     Top: 128px;
     Left: 145px;
+    display: flex;
 }
 .feature {    
     width: 2211px;
     height: 543px;    
     top: 734px;
     left: -406px;
+    display: flex;
 }
 .main-one {
     width: 1110px;
     height: 574px;
     top: 1397px;
-    left: 145px;    
+    left: 145px;
+    display: flex;    
 }
 .main-two {
     width: 1121px;
     height: 521px;
     top: 2072px;
     left: 144px;
+    display: flex;
 }
 .main-three {
     width: 1110px;
     height: 609px;
     top: 2697px;
     left: 147px;
+    display: flex;
 }
 .footer {
     width: 1109px;
     height: 308px;
     top: 3452px;
     left: 160px;
+    display: flex;
+}
+img {
+    display: flex;
 }

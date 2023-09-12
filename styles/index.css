@@ -1,11 +1,20 @@
+.body {
+    max-width: 1400px;
+    height: 3843px;
+    top: -2123px;
+    left: 298px;
+
+}
+
 .nav {
-    width: 1400px;
+    max-width: 1400px;   
     height: 78px;
     top: 78px;
     display: flex;
     border: 1px solid red;
     margin-top: 10px;
     align-items: center;
+    justify-content: center;
 } 
 
 .nav-content {

@@ -279,19 +279,58 @@ p.vid-text {
     align-items: center;
     border: 1px solid red;
 }
-.main__box-three {
-    
-}
-
 .main-two {
     width: 1110px;
     height: 521px;
     margin: 20px;
     display: flex;
     position: relative;
+    justify-content: flex-end;
+    align-items: center;
     top: 210px;
     left: 55px;
     border: 1px solid pink;
+}
+.main-two__card-right {
+    width: 486px;
+    height: 427px;
+    margin-top: 20px;    
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    border: 1px solid red; 
+}
+.main-two__box-one {
+    width: 212px;
+    height: 24px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border: 1px solid red;
+}
+.main-two__title-box {
+    width: 342px;
+    height: 54px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border: 1px solid red;
+}
+.main-two__box-two {
+    width: 486px;
+    height: 78px;    
+    display: flex;
+    position: relative;
+    align-items: center;
+    border: 1px solid red;
+}
+.main-two__dot-box {
+    width: 486px;
+    height: 52px;    
+    display: flex;
+    position: relative;
+    align-items: center;
+    border: 1px solid red;
 }
 .main-three {
     width: 1110px;

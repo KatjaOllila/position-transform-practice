@@ -1,16 +1,17 @@
 .body {
-    max-width: 1400px;
-    height: 3843px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
     display: flex;
     flex-direction: column;
+    
     
     
 }
 
 .nav {
-    max-width: 1400px;   
+    max-width: 100%;   
     height: 78px;
-    top: 78px;
     display: flex;    
     margin-top: 10px;
     padding-right: 20px;
@@ -77,9 +78,12 @@ p.nav-text {
 }
 
 .header {
-    width: 1126px;
+    width: 1110px;
     height: 496px;
+    margin: 20px;
     display: flex;
+    position: relative;
+    top: 100px;
     border: 1px solid red;    
 }
 .header__half {
@@ -90,39 +94,46 @@ p.nav-text {
 }
 
 .feature {    
-    width: 2211px;
-    height: 543px;    
-    top: 734px;
-    left: -406px;
+    width: 1110px;
+    height: 543px;
+    margin: 20px;    
     display: flex;
+    border: 1px solid magenta;
+}
+.feature__title {
+    width: 539px;
+    height: 108px;
+    display: flex;
+    border: 1px solid red;
+
 }
 .main-one {
     width: 1110px;
     height: 574px;
-    top: 1397px;
-    left: 145px;
-    display: flex;    
+    margin: 20px;
+    display: flex; 
+    border: 1px solid black;   
 }
 .main-two {
-    width: 1121px;
+    width: 1110px;
     height: 521px;
-    top: 2072px;
-    left: 144px;
+    margin: 20px;
     display: flex;
+    border: 1px solid pink;
 }
 .main-three {
     width: 1110px;
     height: 609px;
-    top: 2697px;
-    left: 147px;
+    margin: 20px;
     display: flex;
+    border: 1px solid green;
 }
 .footer {
-    width: 1109px;
+    width: 1110px;
     height: 308px;
-    top: 3452px;
-    left: 160px;
+    margin: 20px;
     display: flex;
+    border: 2px solid purple;
 }
 .img-one {
     margin-left: 20px;

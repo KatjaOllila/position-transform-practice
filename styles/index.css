@@ -77,26 +77,22 @@ p.nav-text {
     position: relative;
     top: 100px;
     left: 55px;
-    flex-direction: row;
-    border: 1px solid red;    
+    flex-direction: row;      
 }
 .header__half-one {
     width: 562px;
     height: 496;
     display: flex;
     flex-direction: column;
-    border: 1px solid blue;
 }
 .header__half-two {
     width: 562px;
     height: 496;
     display: flex;
-    border: 1px solid blue;
 }
 .header__title-box {
     width: 518px;
-    height: 108px;
-    border: 1px solid black;
+    height: 108px;    
     display: flex;
     position: relative;
     align-items: center;    
@@ -105,7 +101,6 @@ p.nav-text {
 .header__content {
     width: 458px;
     height: 95px;    
-    border: 1px solid red;
     display: flex;
     position: relative;
     align-items: center;
@@ -122,8 +117,7 @@ p.header-content {
 .header__btn {
     width: 175px;
     height: 53px;
-    background-color: #FF9900;
-    border: 1px solid red;
+    background-color: #FF9900;    
     display: flex;
     position: relative;
     top: 160px 
@@ -135,8 +129,7 @@ p.header-content {
     position: relative;
     align-self: center;
     align-items: center;
-    left: 36px;    
-    border: 1px solid red; 
+    left: 36px;   
 }
 p.header__btn-text {
     font-family: 'Poppins', sans-serif; 
@@ -161,8 +154,7 @@ p.header__btn-text {
     position: relative;
     align-items: center;
     left: 230px;
-    top: 100px;
-    border: 1px solid red;  
+    top: 100px;   
 }
 p.vid-text {
     font-family: 'Poppins', sans-serif;
@@ -181,8 +173,7 @@ p.vid-text {
     flex-direction: column;
     align-items: center;
     top: 140px;
-    left: 55px;
-    border: 1px solid magenta;
+    left: 55px;   
 }
 .feature__title-card {
     width: 539px;
@@ -192,7 +183,6 @@ p.vid-text {
     display: flex;
     position: relative;
     align-items: center;
-    border: 1px solid red;
 }
 .feature__content-card {
     width: 1095px;
@@ -204,7 +194,6 @@ p.vid-text {
     align-items: flex-end;
     flex-direction: row;
     justify-content: space-between;
-    border: 1px solid black;
 }
 .icon-box {
     width: 50px;
@@ -216,8 +205,7 @@ p.vid-text {
     height: 200px;
     margin-right: 20px;
     display: flex;
-    flex-direction: column;    
-    border: 1px solid black;  
+    flex-direction: column;     
 }
 .feature__btn {
     width: 175px;
@@ -227,7 +215,6 @@ p.vid-text {
     align-items: center;
     justify-content: center;
     background-color: #FF9900;
-    border: 1px solid red;
 }
 .feature__btn-text {
     font-family: 'Poppins' sans-serif; 
@@ -243,8 +230,7 @@ p.vid-text {
     display: flex;
     position: relative;
     top: 180px; 
-    left: 55px;
-    border: 1px solid black;   
+    left: 55px;   
 }
 .main__card-left {
     width: 486px;
@@ -253,7 +239,6 @@ p.vid-text {
     display: flex;
     position: relative;
     flex-direction: column;
-    border: 1px solid red;
 }
 .main__box-one {
     width: 186px;
@@ -261,7 +246,6 @@ p.vid-text {
     display: flex;
     position: relative;
     align-items: center;
-    border: 1px solid red;
 }
 .main__title-box {
     width: 385px;
@@ -269,7 +253,6 @@ p.vid-text {
     display: flex;
     position: relative;
     align-items: center;
-    border: 1px solid red;
 }
 .main__box-two {
     width: 486px;
@@ -277,7 +260,6 @@ p.vid-text {
     display: flex;
     position: relative;
     align-items: center;
-    border: 1px solid red;
 }
 .main-two {
     width: 1110px;
@@ -289,7 +271,6 @@ p.vid-text {
     align-items: center;
     top: 210px;
     left: 55px;
-    border: 1px solid pink;
 }
 .main-two__card-right {
     width: 486px;
@@ -297,8 +278,7 @@ p.vid-text {
     margin-top: 20px;    
     display: flex;
     position: relative;
-    flex-direction: column;
-    border: 1px solid red; 
+    flex-direction: column; 
 }
 .main-two__box-one {
     width: 212px;
@@ -306,7 +286,6 @@ p.vid-text {
     display: flex;
     position: relative;
     align-items: center;
-    border: 1px solid red;
 }
 .main-two__title-box {
     width: 342px;
@@ -316,7 +295,6 @@ p.vid-text {
     display: flex;
     position: relative;
     align-items: center;
-    border: 1px solid red;
 }
 .main-two__box-two {
     width: 486px;
@@ -326,7 +304,6 @@ p.vid-text {
     display: flex;
     position: relative;
     align-items: center;
-    border: 1px solid red;
 }
 .main-two__dot-box {
     width: 486px;
@@ -336,7 +313,6 @@ p.vid-text {
     margin-top: 10px;
     margin-bottom: 10px;
     align-items: center;
-    border: 1px solid red;
 }
 .main-three {
     width: 1110px;

@@ -124,7 +124,7 @@ p.nav-text {
     border: 1px solid red;
     display: flex;
     position: relative;
-    top: 200px
+    top: 160px
     
 
 }
@@ -137,6 +137,27 @@ p.nav-text {
     left: 36px;    
     border: 1px solid red;
     
+
+}
+.header-img {
+    height: 21px;
+    width:18px;
+    display: flex;
+    position: relative;
+    left: 200px;
+    top: 125px;
+
+}
+.header-vid {
+    width: 135px;
+    height: 24px;
+    display: flex;
+    position: relative;
+    left: 230px;
+    top: 100px;
+    border: 1px solid red;
+    
+
 
 }
 

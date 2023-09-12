@@ -212,6 +212,8 @@ p.vid-text {
 .feature__title-card {
     width: 539px;
     height: 108px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     display: flex;
     position: relative;
     border: 1px solid red;
@@ -220,6 +222,8 @@ p.vid-text {
 .feature__content-card {
     width: 1095px;
     height: 204px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     display: flex;
     position: relative;
     border: 1px solid black;

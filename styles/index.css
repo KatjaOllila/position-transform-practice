@@ -72,6 +72,10 @@ p.nav-text {
     display: flex;
     font-family: 'Poppins', sans-serif; 
 }
+.btn-text--up {
+    color: white;
+}
+
 .header {
     width: 1126px;
     height: 496px;

@@ -207,11 +207,21 @@ p.vid-text {
     left: 55px;
     border: 1px solid magenta;
 }
-.feature__title {
+.feature__title-card {
     width: 539px;
     height: 108px;
     display: flex;
+    position: relative;
     border: 1px solid red;
+
+}
+.feature__content-card {
+    width: 1095px;
+    height: 204px;
+    display: flex;
+    position: relative;
+    border: 1px solid black;
+
 
 }
 .main-one {

@@ -1,8 +1,10 @@
 .body {
     max-width: 1400px;
     height: 3843px;
-    top: -2123px;
-    left: 298px;
+    display: flex;
+    flex-direction: column;
+    
+    
 }
 
 .nav {
@@ -77,10 +79,16 @@ p.nav-text {
 .header {
     width: 1126px;
     height: 496px;
-    Top: 128px;
-    Left: 145px;
     display: flex;
+    border: 1px solid red;    
 }
+.header__half {
+    width: 562px;
+    height: 496;
+    display: flex;
+    border: 1px solid blue;
+}
+
 .feature {    
     width: 2211px;
     height: 543px;    

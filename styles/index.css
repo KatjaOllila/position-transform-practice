@@ -85,13 +85,59 @@ p.nav-text {
     position: relative;
     top: 100px;
     left: 55px;
+    flex-direction: row;
     border: 1px solid red;    
 }
-.header__half {
+.header__half-one {
+    width: 562px;
+    height: 496;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid blue;
+}
+.header__half-two {
     width: 562px;
     height: 496;
     display: flex;
     border: 1px solid blue;
+}
+.header__title {
+    width: 518px;
+    height: 108px;
+    border: 1px solid black;
+    display: flex;
+    position: relative;
+    top: 60px;
+}
+.header__content {
+    width: 458px;
+    height: 95px;    
+    border: 1px solid red;
+    display: flex;
+    position: relative;
+    top: 90px;
+}
+.header__btn {
+    width: 175px;
+    height: 53px;
+    background-color: #FF9900;
+    border: 1px solid red;
+    display: flex;
+    position: relative;
+    top: 200px
+    
+
+}
+.header__btn-text {
+    width: 93px;
+    height: 24px;
+    display: flex;
+    position: relative;
+    align-self: center;
+    left: 36px;    
+    border: 1px solid red;
+    
+
 }
 
 .feature {    

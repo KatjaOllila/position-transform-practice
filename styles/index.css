@@ -84,6 +84,7 @@ p.nav-text {
     display: flex;
     position: relative;
     top: 100px;
+    left: 55px;
     border: 1px solid red;    
 }
 .header__half {
@@ -98,6 +99,9 @@ p.nav-text {
     height: 543px;
     margin: 20px;    
     display: flex;
+    position: relative;
+    top: 140px;
+    left: 55px;
     border: 1px solid magenta;
 }
 .feature__title {
@@ -111,7 +115,10 @@ p.nav-text {
     width: 1110px;
     height: 574px;
     margin: 20px;
-    display: flex; 
+    display: flex;
+    position: relative;
+    top: 180px; 
+    left: 55px;
     border: 1px solid black;   
 }
 .main-two {
@@ -119,6 +126,9 @@ p.nav-text {
     height: 521px;
     margin: 20px;
     display: flex;
+    position: relative;
+    top: 210px;
+    left: 55px;
     border: 1px solid pink;
 }
 .main-three {
@@ -126,6 +136,9 @@ p.nav-text {
     height: 609px;
     margin: 20px;
     display: flex;
+    position: relative;
+    top: 240px;
+    left: 55px;
     border: 1px solid green;
 }
 .footer {
@@ -133,6 +146,9 @@ p.nav-text {
     height: 308px;
     margin: 20px;
     display: flex;
+    position: relative;
+    top: 270px;
+    left: 55px;
     border: 2px solid purple;
 }
 .img-one {

@@ -344,10 +344,20 @@ p.vid-text {
     margin: 20px;
     display: flex;
     position: relative;
+    align-items: center;    
     top: 240px;
     left: 55px;
     border: 1px solid green;
 }
+.main-three__card-left {
+    width: 486px;
+    height: 531px;
+    margin-top: 20px;    
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    border: 1px solid red;
+}   
 .footer {
     width: 1110px;
     height: 308px;

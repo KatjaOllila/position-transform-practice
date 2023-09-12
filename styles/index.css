@@ -244,6 +244,7 @@ p.vid-text {
     height: 150px;
     margin-right: 20px;
     display: flex;
+    flex-direction: column;
     border: 1px solid black;
   
 }
@@ -252,6 +253,15 @@ p.feature-title {
     font-size: 22px;
     font-weight: 600;
     line-height: 33px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+p.feature-text {
+    font-family: 'Poppins' sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
     letter-spacing: 0px;
     text-align: left;
 

@@ -404,6 +404,18 @@ p.vid-text {
     position: relative;
     border: 2px solid black;
 }
+.bitmap-box {
+    width: 25;
+    height: 23;
+    display:flex;
+    position: relative;
+}
+.producly-box {
+    width: 100;
+    height: 23;
+    display:flex;
+    position: relative;
+}
 .img-one {
     margin-left: 20px;
     display: flex;    

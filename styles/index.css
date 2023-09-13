@@ -394,8 +394,7 @@ p.vid-text {
     position: relative;
     flex-direction: row;
     top: 270px;
-    left: 55px;
-    border: 2px solid purple;
+    left: 55px;    
 }
 .footer__card {
     width: 273px;
@@ -405,8 +404,7 @@ p.vid-text {
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-start;
-    position: relative;
-    border: 2px solid black;
+    position: relative;    
 }
 .bitmap-box {
     width: 25;

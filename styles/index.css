@@ -333,7 +333,38 @@ p.vid-text {
     position: relative;
     flex-direction: column;
     border: 1px solid red;
-}   
+}
+.main-three__box-one {    
+    width: 131px;
+    height: 24px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border: 1px solid black;
+} 
+.main-three__title-box {
+    width: 190px;
+    height: 54px;
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+.main-three__box-two {
+    width: 480px;
+    height: 78px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border: 1px solid black;
+}
+.main-three__box-three {    
+    width: 153px;
+    height: 26px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border: 1px solid purple;
+}  
 .footer {
     width: 1110px;
     height: 308px;

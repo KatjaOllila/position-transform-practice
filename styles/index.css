@@ -350,7 +350,7 @@ p.vid-text {
     align-items: center;
 }
 .main-three__box-two {
-    width: 480px;
+    width: 486px;
     height: 78px;
     display: flex;
     position: relative;
@@ -364,7 +364,23 @@ p.vid-text {
     position: relative;
     align-items: center;
     border: 1px solid purple;
-}  
+} 
+.main-three__box-four {
+    width: 486px;
+    height: 52px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border: 1px solid black;
+} 
+.main-three__box-five {    
+    width: 211px;
+    height: 26px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    border: 1px solid purple;
+} 
 .footer {
     width: 1110px;
     height: 308px;

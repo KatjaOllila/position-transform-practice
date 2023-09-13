@@ -337,6 +337,7 @@ p.vid-text {
 .main-three__box-one {    
     width: 131px;
     height: 24px;
+    margin-bottom: 5px;
     display: flex;
     position: relative;
     align-items: center;
@@ -345,6 +346,8 @@ p.vid-text {
 .main-three__title-box {
     width: 190px;
     height: 54px;
+    margin-top: 5px;
+    margin-bottom: 5px;    
     display: flex;
     position: relative;
     align-items: center;
@@ -352,6 +355,8 @@ p.vid-text {
 .main-three__box-two {
     width: 486px;
     height: 78px;
+    margin-top: 5px;
+    margin-bottom: 5px;    
     display: flex;
     position: relative;
     align-items: center;
@@ -360,6 +365,8 @@ p.vid-text {
 .main-three__box-three {    
     width: 153px;
     height: 26px;
+    margin-top: 5px;
+    margin-bottom: 5px;    
     display: flex;
     position: relative;
     align-items: center;
@@ -368,6 +375,8 @@ p.vid-text {
 .main-three__box-four {
     width: 486px;
     height: 52px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     display: flex;
     position: relative;
     align-items: center;
@@ -376,6 +385,8 @@ p.vid-text {
 .main-three__box-five {    
     width: 211px;
     height: 26px;
+    margin-top: 5px;
+    margin-bottom: 5px;    
     display: flex;
     position: relative;
     align-items: center;

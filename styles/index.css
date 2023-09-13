@@ -322,8 +322,7 @@ p.vid-text {
     position: relative;
     align-items: center;    
     top: 240px;
-    left: 55px;
-    border: 1px solid green;
+    left: 55px;    
 }
 .main-three__card-left {
     width: 486px;
@@ -331,8 +330,7 @@ p.vid-text {
     margin-top: 20px;    
     display: flex;
     position: relative;
-    flex-direction: column;
-    border: 1px solid red;
+    flex-direction: column;    
 }
 .main-three__box-one {    
     width: 131px;
@@ -340,8 +338,7 @@ p.vid-text {
     margin-bottom: 5px;
     display: flex;
     position: relative;
-    align-items: center;
-    border: 1px solid black;
+    align-items: center;    
 } 
 .main-three__title-box {
     width: 190px;
@@ -359,8 +356,7 @@ p.vid-text {
     margin-bottom: 5px;    
     display: flex;
     position: relative;
-    align-items: center;
-    border: 1px solid black;
+    align-items: center;    
 }
 .main-three__box-three {    
     width: 153px;
@@ -369,8 +365,7 @@ p.vid-text {
     margin-bottom: 5px;    
     display: flex;
     position: relative;
-    align-items: center;
-    border: 1px solid purple;
+    align-items: center;    
 } 
 .main-three__box-four {
     width: 486px;
@@ -379,8 +374,7 @@ p.vid-text {
     margin-bottom: 5px;
     display: flex;
     position: relative;
-    align-items: center;
-    border: 1px solid black;
+    align-items: center;    
 } 
 .main-three__box-five {    
     width: 211px;
@@ -389,8 +383,7 @@ p.vid-text {
     margin-bottom: 5px;    
     display: flex;
     position: relative;
-    align-items: center;
-    border: 1px solid purple;
+    align-items: center;    
 } 
 .footer {
     width: 1110px;

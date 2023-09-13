@@ -196,8 +196,44 @@ p.vid-text {
     justify-content: space-between;
 }
 .icon-box {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+img.purple {
+    position: relative;
+    display: flex;    
+}
+img.arrow {
+    position: absolute;
+    display: flex;
+}
+img.yellow {
+    position: relative;
+    display: flex;    
+}
+img.doodle {
+    position: absolute;
+    display: flex;
+}
+img.red {
+    position: relative;
+    display: flex;    
+}
+img.heart {
+    position: absolute;
+    display: flex;
+}
+img.blue {
+    position: relative;
+    display: flex;    
+}
+img.hourglass {
+    position: absolute;
     display: flex;
 }
 .feature__info {
@@ -499,4 +535,12 @@ img.dot {
     width: 40;
     height: 40;
     margin-right: 20px;
+}
+img.oval {
+    transform: scale(0.8);
+    position: relative;
+}
+img.dance {   
+    transform: scale(0.8); 
+    position: absolute; 
 }

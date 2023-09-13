@@ -265,6 +265,8 @@ img.hourglass {
     margin: 20px;
     display: flex;
     position: relative;
+    flex-direction: row;
+    justify-content: space-between;
     top: 180px; 
     left: 55px;   
 }
@@ -275,6 +277,15 @@ img.hourglass {
     display: flex;
     position: relative;
     flex-direction: column;
+}
+.main__card-right {
+    width: 486px;
+    height: 531px;
+    margin-top: 20px;    
+    display: flex;    
+    position: relative;
+    right: 40px;
+    border: 1px solid black;
 }
 .main__box-one {
     width: 186px;
@@ -315,6 +326,14 @@ img.hourglass {
     display: flex;
     position: relative;
     flex-direction: column; 
+}
+.main-two__card-left {
+    width: 486px;
+    height: 427px;
+    margin-top: 20px;    
+    display: flex;
+    position: relative;
+    
 }
 .main-two__box-one {
     width: 212px;
@@ -471,7 +490,6 @@ img.hourglass {
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 .img-one {
     margin-left: 20px;
@@ -543,4 +561,8 @@ img.oval {
 img.dance {   
     transform: scale(0.8); 
     position: absolute; 
+}
+img.design {
+    transform: scale(0.8);
+    
 }

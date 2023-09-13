@@ -391,9 +391,18 @@ p.vid-text {
     margin: 20px;
     display: flex;
     position: relative;
+    flex-direction: row;
     top: 270px;
     left: 55px;
     border: 2px solid purple;
+}
+.footer__card {
+    width: 273px;
+    height: 308px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    border: 2px solid black;
 }
 .img-one {
     margin-left: 20px;

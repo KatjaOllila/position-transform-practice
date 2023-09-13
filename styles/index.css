@@ -203,7 +203,6 @@ p.vid-text {
     position: relative;
     align-items: center;
     justify-content: center;
-    border: 1px solid black;
 }
 img.purple {
     position: relative;
@@ -286,7 +285,6 @@ img.hourglass {
     display: flex;    
     position: relative;
     right: 40px;
-    border: 1px solid black;
 }
 .main__box-one {
     width: 186px;
@@ -334,7 +332,6 @@ img.hourglass {
     margin-top: 20px;    
     display: flex;
     position: relative;
-    border: 1px solid black;
 }
 .main-two__box-one {
     width: 212px;
